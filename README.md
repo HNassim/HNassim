@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hey 👋
+
+Data engineer who leads technical teams to build data stacks and AI products. 😃
+Full stack experience across data, AI and app development.
+
+Built multiple 0 to 1 systems and products working with diverse teams, tools and
+constraints. 
+Optimizing for fast execution and solving real problems with
+pragmatic solutions.
+
+Optimist, there's never been a better time to live! 😃
+
+
 
 <!--
 **HNassim/HNassim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
