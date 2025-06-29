@@ -8,10 +8,22 @@ constraints.
 Optimizing for fast execution and solving real problems with
 pragmatic solutions.
 
-### Moto
+---
 
-Optimist, there's never been a better time to live! 😃
+### My core principles
 
+- [Techno-optimist](https://a16z.com/the-techno-optimist-manifesto/) at heart.
+- Doing my best to be [high-agency](https://www.highagency.com/).
+
+There's never been a better time to live! 😃
+
+---
+
+### Feel free to contact me !
+
+- [Mail](nassim.hmidou@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/nassim-hmidou-334975b9/)
+- [Twitter](https://x.com/HmiNassim)
 
 
 <!--
