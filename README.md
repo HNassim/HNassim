@@ -1,6 +1,6 @@
 ## Hey, it's Nassim 👋
 
-I'm a Data engineer who leads technical teams to build data stacks and AI products. 😃
+I'm a Data engineer who leads technical teams to build data stacks and AI products. 🙂
 
 I've built multiple 0 to 1 systems and products working with diverse teams, tools and
 constraints. 
