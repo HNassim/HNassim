@@ -21,7 +21,7 @@ There's never been a better time to live! 😃
 
 ### Feel free to contact me !
 
-- [Mail](nassim.hmidou@gmail.com)
+- nassim.hmidou@gmail.com
 - [Linkedin](https://www.linkedin.com/in/nassim-hmidou-334975b9/)
 - [Twitter](https://x.com/HmiNassim)
 
