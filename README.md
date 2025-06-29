@@ -1,10 +1,10 @@
-## Hey 👋
+## Hey, it's Nassim 👋
 
-Data engineer who leads technical teams to build data stacks and AI products. 😃
-Full stack experience across data, AI and app development.
+I'm a Data engineer who leads technical teams to build data stacks and AI products. 😃
 
-Built multiple 0 to 1 systems and products working with diverse teams, tools and
+I've built multiple 0 to 1 systems and products working with diverse teams, tools and
 constraints. 
+
 Optimizing for fast execution and solving real problems with
 pragmatic solutions.
 
